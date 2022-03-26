@@ -4,6 +4,7 @@ namespace Richard\AliyunApiGateway\Util;
 
 use Richard\AliyunApiGateway\Http\HttpResponse;
 use Richard\AliyunApiGateway\Constant\SystemHeader;
+use Richard\AliyunApiGateway\Constant\HttpSchema;
 /*
  * Licensed to the Apache Software Foundation (ASF) under one
  * or more contributor license agreements.  See the NOTICE file
