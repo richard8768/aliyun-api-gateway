@@ -18,6 +18,8 @@ $ composer require richard8768/aliyun-api-gateway
 
 > 以下是伪代码，仅供参考。
 
+
+```bash
 //根据快递单号查询物流状态以及所属物流公司
 use Richard\AliyunApiGateway\Constant\ContentType;
 use Richard\AliyunApiGateway\Constant\HttpHeader;
