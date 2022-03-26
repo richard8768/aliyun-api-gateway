@@ -1,5 +1,11 @@
 {
     "name": "richard8768/aliyun-api-gateway",
+    "type": "library",
+    "license": "MIT",
+    "keywords": [
+        "php",
+        "aliyun-api-gateway"
+    ],
     "description": "aliyun-api-gateway for php with composer",
     "authors": [
         {
