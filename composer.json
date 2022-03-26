@@ -1,0 +1,23 @@
+{
+    "name": "richard8768/aliyun-api-gateway",
+    "description": "aliyun-api-gateway for php with composer",
+    "authors": [
+        {
+            "name": "richard8768",
+            "email": "jobsen123@qq.com"
+        }
+    ],
+    "require": {
+	"php": ">=7.4",
+      "ext-curl": "*",
+      "ext-mbstring": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Richard\\AliyunApiGateway\\": "src/"
+        },
+        "files": [
+            "src/helper.php"
+        ]
+    }
+}
